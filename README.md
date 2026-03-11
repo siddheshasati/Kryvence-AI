@@ -12,6 +12,10 @@
 
 Experience the fluid interaction and automation capabilities of **Kryvence AI** in the video below:
 
+![Home Page](./Home.png)
+![Chat Screen](./chatscreen.png)
+![Chat Screen and reply](./chatscreen.png)
+
 [![Kryvence AI Demo](https://img.shields.io/badge/Watch_Demo_Video-▶-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1lbTG1y7o5xaPoIrw8LgAm0BtIr8XDWYL/view?usp=drive_link)
 
 ---
@@ -32,7 +36,7 @@ Experience the fluid interaction and automation capabilities of **Kryvence AI** 
 
 The repository is organized into distinct layers for scalability:
 
-![Kryvence Structure](./image_9cb618.png)
+
 
 * **`Backend/`**: Contains the core engines for search, voice, and generation.
 * **`Frontend/`**: Houses the user interface components (Main.py entry point).
