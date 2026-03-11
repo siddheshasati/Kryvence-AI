@@ -12,7 +12,7 @@
 
 Experience the fluid interaction and automation capabilities of **Kryvence AI** in the video below:
 
-[![Kryvence AI Demo](https://img.shields.io/badge/Watch_Demo_Video-▶-red?style=for-the-badge&logo=youtube)](INSERT_YOUR_VIDEO_LINK_HERE)
+[![Kryvence AI Demo](https://img.shields.io/badge/Watch_Demo_Video-▶-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1lbTG1y7o5xaPoIrw8LgAm0BtIr8XDWYL/view?usp=drive_link)
 
 ---
 
