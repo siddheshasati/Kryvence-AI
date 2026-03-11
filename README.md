@@ -12,12 +12,12 @@
 
 Experience the fluid interaction and automation capabilities of **Kryvence AI** in the video below:
 
-![Home Page](./<img width="1919" height="1012" alt="Home" src="https://github.com/user-attachments/assets/fe298ce1-c793-40fa-9c31-b7f9e728aa6f" />
-)
-![Chat Screen](./<img width="1917" height="1010" alt="chatscreen" src="https://github.com/user-attachments/assets/71c79fd5-c621-4532-88b6-58feabb45286" />
-)
-![Chat Screen and reply](./<img width="1919" height="1012" alt="chatscreen2" src="https://github.com/user-attachments/assets/68ca3a53-8a27-4546-9745-c41d38c6fe7e" />
-)
+Home Page<img width="1919" height="1012" alt="Home" src="https://github.com/user-attachments/assets/fe298ce1-c793-40fa-9c31-b7f9e728aa6f" />
+
+Chat Screen]<img width="1917" height="1010" alt="chatscreen" src="https://github.com/user-attachments/assets/71c79fd5-c621-4532-88b6-58feabb45286" />
+
+Chat Screen and Reply <img width="1919" height="1012" alt="chatscreen2" src="https://github.com/user-attachments/assets/68ca3a53-8a27-4546-9745-c41d38c6fe7e" />
+
 
 [![Kryvence AI Demo](https://img.shields.io/badge/Watch_Demo_Video-▶-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1lbTG1y7o5xaPoIrw8LgAm0BtIr8XDWYL/view?usp=drive_link)
 
@@ -92,12 +92,8 @@ The Model.py file is pre-configured to read these secrets. Ensure the variable n
 🚀 Execution Flow
 To launch the full ecosystem:
 
-Bash
-# To run the CLI version
-python Backend/Main.py
-
 # To run the Interactive Web Dashboard (if using Streamlit)
-streamlit run Main.py
+streamlit run GUI.py
 🧪 Testing the Modules
 You can test individual modules to ensure your hardware (Mic/GPU) is compatible:
 
