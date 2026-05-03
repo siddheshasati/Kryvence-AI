@@ -15,9 +15,11 @@ Experience the fluid interaction and automation capabilities of **Kryvence AI** 
 Home Page<img width="1919" height="1012" alt="Home" src="<img width="1919" height="1018" alt="Screenshot 2026-05-04 031709" src="https://github.com/user-attachments/assets/01098ede-4cbc-4972-8f0d-3385b36d7263" />
 " />
 
-Chat Screen]<img width="1917" height="1010" alt="chatscreen" src="https://github.com/user-attachments/assets/71c79fd5-c621-4532-88b6-58feabb45286" />
+Chat Screen]<img width="1917" height="1010" alt="chatscreen" src="  <img width="1918" height="1030" alt="Screenshot 2026-05-04 031744" src="https://github.com/user-attachments/assets/729475ba-38c4-44c0-8fe1-89ab763f8c7a" />
+" />
 
-Chat Screen and Reply <img width="1919" height="1012" alt="chatscreen2" src="https://github.com/user-attachments/assets/68ca3a53-8a27-4546-9745-c41d38c6fe7e" />
+Chat Screen and Reply <img width="1919" height="1012" alt="chatscreen2" src="<img width="1919" height="1017" alt="Screenshot 2026-05-04 031723" src="https://github.com/user-attachments/assets/ae72cd5f-7a7b-41df-8200-d14bc65fc1a6" />
+" />
 
 
 [![Kryvence AI Demo](https://img.shields.io/badge/Watch_Demo_Video-▶-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1lbTG1y7o5xaPoIrw8LgAm0BtIr8XDWYL/view?usp=drive_link)
