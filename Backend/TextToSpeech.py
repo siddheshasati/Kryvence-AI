@@ -3,6 +3,7 @@ import random
 import asyncio
 import edge_tts
 import os
+import re
 from dotenv import dotenv_values
 
 # Load environment variables, provide a default fallback voice if missing
@@ -57,6 +58,18 @@ def TTS(Text, func=lambda r=None: True):
 def TextToSpeech(Text, func=lambda r=None: True):
     # Prevent crashing on empty inputs
     if not str(Text).strip():
+        return
+
+    code_patterns = [
+        r"```[\s\S]*```",
+        r"\bdef\s+\w+\(",
+        r"\bclass\s+\w+",
+        r"\bfunction\s+\w+\(",
+        r"\b(public|private|protected)\s+class\b",
+        r"#include\s*<",
+        r"<html[\s>]",
+    ]
+    if any(re.search(pattern, str(Text), re.IGNORECASE) for pattern in code_patterns):
         return
 
     Data = str(Text).split(",")
