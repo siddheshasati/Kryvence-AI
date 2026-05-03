@@ -30,8 +30,10 @@ Chat Screen and Reply <img width="1919" height="1012" alt="chatscreen2" src="htt
 | **Real-Time Intelligence** | `RealtimeSearchEngine.py` | Fetches live web data to bypass knowledge cut-offs. |
 | **Neural Vision** | `ImageGeneration.py` | Transforms textual concepts into high-fidelity visual assets. |
 | **Task Automation** | `Automation.py` | Executes system-level workflows and repetitive tasks autonomously. |
+| **Document Parsing** | `UploadProcessor.py` | Handles document uploads and processes specific user queries regarding their content.
 | **Voice Interface** | `SpeechToText.py` & `TTS.py` | Enables natural, low-latency voice-to-voice communication. |
 | **Core Logic** | `Model.py` & `Chatbot.py` | The centralized "brain" managing state and LLM orchestration. |
+
 
 ---
 
