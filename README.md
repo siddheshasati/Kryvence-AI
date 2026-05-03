@@ -12,7 +12,8 @@
 
 Experience the fluid interaction and automation capabilities of **Kryvence AI** in the video below:
 
-Home Page<img width="1919" height="1012" alt="Home" src="https://github.com/user-attachments/assets/fe298ce1-c793-40fa-9c31-b7f9e728aa6f" />
+Home Page<img width="1919" height="1012" alt="Home" src="<img width="1919" height="1018" alt="Screenshot 2026-05-04 031709" src="https://github.com/user-attachments/assets/01098ede-4cbc-4972-8f0d-3385b36d7263" />
+" />
 
 Chat Screen]<img width="1917" height="1010" alt="chatscreen" src="https://github.com/user-attachments/assets/71c79fd5-c621-4532-88b6-58feabb45286" />
 
