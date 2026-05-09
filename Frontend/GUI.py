@@ -8,22 +8,18 @@ import os
 import json
 import html
 import re
-
-# Get absolute path of GUI.py
+
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
-# Go one level up (project root: Assissant)
+
 project_root = os.path.dirname(current_dir)
 
-# Add project root to Python path
+
 if project_root not in sys.path:
     sys.path.insert(0, project_root)
-
-# Now import from Backend
+
 from Backend.SpeechToText import QueryModifier
-
-
-# Configuration
+
 env_vars = dotenv_values(".env")
 Assistantname = env_vars.get("Assistantname", "MechautoX")
 Username = env_vars.get("Username", "Siddhesh Asati")
