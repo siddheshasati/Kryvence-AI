@@ -336,4 +336,4 @@ if __name__ == "__main__":
     thread1 = threading.Thread(target=FirstThread, daemon=True)
     thread1.start()
     
-    SecondThread()
+    SecondThread() #threadsecond
