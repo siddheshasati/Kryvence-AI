@@ -8,7 +8,8 @@ import os
 import json
 import html
 import re
-
+
+
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
 
@@ -17,9 +18,11 @@ project_root = os.path.dirname(current_dir)
 
 if project_root not in sys.path:
     sys.path.insert(0, project_root)
-
+
+
 from Backend.SpeechToText import QueryModifier
-
+
+
 env_vars = dotenv_values(".env")
 Assistantname = env_vars.get("Assistantname", "MechautoX")
 Username = env_vars.get("Username", "Siddhesh Asati")
