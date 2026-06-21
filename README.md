@@ -76,32 +76,8 @@ The system requires several libraries for Speech, Search, and AI processing. Ins
 
 Bash
 pip install -r Requirements.txt
-[!IMPORTANT]
-Some audio modules may require system-level dependencies like portaudio. If you encounter errors, ensure your system drivers are up to date.
 
-🔑 Configuration & API Setup
-Kryvence AI requires specific API keys to power the Realtime Search and Model engines.
 
-Create a Secrets File:
-In your root directory, create a .env file (or use secrets.toml if using Streamlit).
 
-Add Your Credentials:
 
-Code snippet
-GEMINI_API_KEY="your_api_key_here"
-SEARCH_ENGINE_ID="your_id_here"
-STT_ENGINE_KEY="your_key_here"
-Initialize the Backend:
-The Model.py file is pre-configured to read these secrets. Ensure the variable names in your code match your environment file.
 
-🚀 Execution Flow
-To launch the full ecosystem:
-
-# To run the Interactive Web Dashboard (if using Streamlit)
-streamlit run GUI.py
-🧪 Testing the Modules
-You can test individual modules to ensure your hardware (Mic/GPU) is compatible:
-
-Test Voice: python Backend/SpeechToText.py
-Test Search: python Backend/RealtimeSearchEngine.py
-Test Vision: python Backend/ImageGeneration.py
